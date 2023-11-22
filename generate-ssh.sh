@@ -1,3 +1,8 @@
+#NOTE TO SELF:
+#-------------------------------------------------------------------------------------------------------------------
+# I will probably have to reconfigure my keys because I may have accidentally overwritten my currently running keys
+# in the process of testing this script.
+#-------------------------------------------------------------------------------------------------------------------
 #check for existing ssh keys
 ls -all ~/.ssh
 
